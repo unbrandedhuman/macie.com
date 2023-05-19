@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url>
+	<loc>https://vibelobster.com</loc>
+	<lastmod>2023-05-18</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>1.0</priority>
+	<image:image>
+	<image:loc>https://vibelobster.com/img/arrow.svg</image:loc>
+	<image:title>arrow</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://vibelobster.com/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://vibelobster.com/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://vibelobster.com/get-macie/</loc>
+	<lastmod>2023-05-18</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://vibelobster.com/img/macie%20branding-02.svg</image:loc>
+	<image:title>avatar@2x</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://vibelobster.com/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://vibelobster.com/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://vibelobster.com/project/</loc>
+	<lastmod>2023-05-18</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://vibelobster.com/img/Macie.png</image:loc>
+	<image:title>graphic 2</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://vibelobster.com/img/Macie.webp</image:loc>
+	<image:title>graphic 2</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://vibelobster.com/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://vibelobster.com/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://vibelobster.com/about/</loc>
+	<lastmod>2023-05-18</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://vibelobster.com/img/hand-waving.svg</image:loc>
+	<image:title>avatar@2x</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://vibelobster.com/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://vibelobster.com/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://vibelobster.com/catergory/</loc>
+	<lastmod>2023-05-18</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://vibelobster.com/img/arrow.svg</image:loc>
+	<image:title>arrow</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://vibelobster.com/img/devrocket.svg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://vibelobster.com/img/cazoobi-logo.svg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://vibelobster.com/img/web-zap.svg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://vibelobster.com/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://vibelobster.com/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+</urlset>
